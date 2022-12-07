@@ -4,7 +4,7 @@ set -e
 
 #############################################################################
 #                                                                           #
-# Project 'pterodactyl-installer'                                           #
+# Project 'jexactyl-installer'                                           #
 #                                                                           #
 # Copyright (C) 2018 - 2022, Vilhelm Prytz, <vilhelm@prytznet.se>           #
 #                                                                           #
